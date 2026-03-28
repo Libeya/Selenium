@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-13T08:26:33 IST" name="DemoSuite" finished-at="2026-03-13T08:26:41 IST" duration-ms="8323">
+    <groups>
+    </groups>
+    <test started-at="2026-03-13T08:26:33 IST" name="DemoTest1" finished-at="2026-03-13T08:26:41 IST" duration-ms="8323">
+      <class name="Locator.classMethod">
+        <test-method signature="demo()[pri:0, instance:Locator.classMethod@692f203f]" started-at="2026-03-13T08:26:33 IST" name="demo" finished-at="2026-03-13T08:26:41 IST" duration-ms="7509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Locator.classMethod -->
+      <class name="Locator.linkMethod">
+        <test-method signature="demolink()[pri:0, instance:Locator.linkMethod@6f1de4c7]" started-at="2026-03-13T08:26:33 IST" name="demolink" finished-at="2026-03-13T08:26:41 IST" duration-ms="8238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demolink -->
+      </class> <!-- Locator.linkMethod -->
+    </test> <!-- DemoTest1 -->
+  </suite> <!-- DemoSuite -->
+</testng-results>
