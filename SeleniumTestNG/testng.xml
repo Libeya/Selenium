@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="demoSuite">
+  <test thread-count="5" name="demoSampleTest">
+    <classes>
+      <class name="Practice.DemoSoftAssert"/>
+      <class name="Practice.DemoTest"/>
+      <class name="Practice.DemoHardAssert"/>
+    </classes>
+  </test> <!-- demoSampleTest -->
+</suite> <!-- demoSuite -->
